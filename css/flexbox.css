@@ -139,7 +139,7 @@
    line-height: 1;
 }
 
-.card-rodaape {
+.card-rodape {
    margin-top: auto;
    display: flex;
    justify-content: space-between;
@@ -236,13 +236,11 @@
 }
 
 
-
-
 /* ---------- 5. RODAPÉ ---------- */
 /* .rodape-conteudo, .rodape-contato, .rodape-links */
 
 
-.rodaape {
+.rodape {
    background: #09090a;
    padding-top: 4rem;
    border-top: 1px solid var(--cinza);
